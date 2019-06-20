@@ -1,0 +1,22 @@
+{
+  "name": "superchess",
+  "version": "1.0.0",
+  "description": "Chess!",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finngreiter/SuperChess.git"
+  },
+  "author": "Finn Greiter",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/finngreiter/SuperChess/issues"
+  },
+  "homepage": "https://github.com/finngreiter/SuperChess#readme",
+  "devDependencies": {
+    "electron": "^5.0.4"
+  }
+}
